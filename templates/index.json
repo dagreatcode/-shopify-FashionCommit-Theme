@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "heading_size": "h2"
           }
         },
         "button": {
@@ -27,6 +27,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-03-15_at_6.22.00_PM_77fcb735-9d65-451c-bac7-2ef6935e1b66.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
